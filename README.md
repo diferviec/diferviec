@@ -17,8 +17,8 @@ support decision-making, monitoring, and process optimization.
 
 ## Featured projects
 ### 🚍 Transport Validation Analysis
-Analysis of ticket validations and travel patterns using Python and SQL.
-Focus on hourly demand, station usage, and anomaly detection.
+Analysis of ticket validations and travel patterns using Python.
+Focus on hourly demand, station usage.
 
 ### ⚙️ Operational Automation Scripts
 A collection of Python scripts to automate data extraction, cleaning,
